@@ -1,0 +1,1 @@
+Soluções dos exercícios propostos no curso de Selenium com python: https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B
